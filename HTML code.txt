@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> This is my first Webpage  
+                   </title>
+    <body style="background-color:black ;">
+        <h1 style="color: beige; font-family: Arial, Helvetica, sans-serif; font-size: large; "> 
+            Welcome to My First Webpage! </h1> <br>
+        <h2 style="color: red; font-family: Arial, Helvetica, sans-serif; font-size: medium;">
+            (Created in Microsoft Visual Studio Code) </h2>
+        <p style="color: yellow; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+
+            Hello there! I'm excited to present my first webpage created using Microsoft Visual Studio Code. 
+            <br> This page marks the beginning of my journey. 
+            <br> I've used HTML to structure this page and can't wait to explore more in the future. 
+            <br> Stay tuned for more updates!
+            <br> <br> <span  style="color: green; font-family:Georgia, 'Times New Roman', Times, serif; font-size: small;"> 
+                Created by Yogesh Gupta, 07/22/2024, 23:51 </span>
+        </p>
+        <footer> 
+            <p style="color: blue;">
+                <a href="https://www.linkedin.com/in/yogesh-gupta-s/"> Click here for my LinkedIn Profile:
+                     </a>
+            </p>
+        </footer>
+    </body>
+</head>
+</html>
